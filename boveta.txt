@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Discover More Today</title>
+<style>
+:root{--bg:#fff6c9;--fg:#171717;--mut:#4a4638;--card:#fff;--ac:#171717;--hl:#ff5a3c;--ac2:#ffd83d;--bl:#4aa8ff;--ln:#171717;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1a1808;--fg:#fff6c9;--mut:#d3cb9a;--card:#26230f;--ac:#ffd83d;--hl:#ff7a5f;--ac2:#ffd83d;--bl:#6bb9ff;--ln:#fff6c9}}
+:root[data-theme="dark"]{--bg:#1a1808;--fg:#fff6c9;--mut:#d3cb9a;--card:#26230f;--ac:#ffd83d;--hl:#ff7a5f;--ac2:#ffd83d;--bl:#6bb9ff;--ln:#fff6c9}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.7 "Trebuchet MS",Verdana,sans-serif}
+.w{max-width:1060px;margin:auto;padding:0 20px}
+nav{display:flex;justify-content:space-between;align-items:center;padding:16px 0;flex-wrap:wrap;gap:8px}
+nav b{font:900 28px "Arial Black",Impact,sans-serif;background:var(--ac2);color:#171717;padding:2px 12px;border:3px solid var(--ln);border-radius:10px}nav a{color:var(--fg);text-decoration:none;font-weight:700;font-size:14px;margin-left:16px}
+.hero{display:grid;grid-template-columns:1.1fr .9fr;gap:28px;align-items:center;padding:30px 0}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:center}
+@media(max-width:720px){.hero,.two{grid-template-columns:1fr}}
+h1{font:900 clamp(38px,7vw,64px)/1 "Arial Black",Impact,sans-serif;margin:0 0 14px;text-transform:uppercase}
+h2{font:900 28px/1.15 "Arial Black",Impact,sans-serif;margin:0 0 10px}h3{margin:10px 0 4px;font-size:19px;font-weight:800}
+p{margin:0 0 14px;color:var(--mut)}
+.tag{display:inline-block;font:800 12px system-ui;letter-spacing:.1em;text-transform:uppercase;background:var(--hl);color:#fff;padding:4px 12px;border:2px solid var(--ln);border-radius:99px;margin-bottom:10px}
+.btn{display:inline-block;background:var(--ac2);color:#171717;padding:13px 28px;border:3px solid var(--ln);border-radius:12px;font:800 15px system-ui;text-decoration:none;box-shadow:4px 4px 0 var(--ln)}
+svg{width:100%;height:auto;display:block}
+.pic{border:3px solid var(--ln);border-radius:18px;overflow:hidden;box-shadow:6px 6px 0 var(--ln)}
+section{padding:38px 0}
+.g{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px;margin-top:20px}
+.c{background:var(--card);border:3px solid var(--ln);border-radius:18px;overflow:hidden;box-shadow:5px 5px 0 var(--ln)}
+.c div{padding:2px 16px 16px}
+.st{background:var(--card);border:3px solid var(--ln);border-radius:16px;padding:18px;box-shadow:4px 4px 0 var(--ln)}
+.st i{font:900 28px "Arial Black",sans-serif;font-style:normal;color:var(--hl)}
+.band{background:var(--bl);color:#171717;border:3px solid var(--ln);border-radius:22px;padding:40px 24px;text-align:center;box-shadow:6px 6px 0 var(--ln)}
+.band h2,.band p{color:#171717}
+.pills{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:16px}
+.pills span{background:#fff;color:#171717;border:2px solid #171717;padding:5px 14px;border-radius:99px;font:700 13px system-ui}
+.art{max-width:740px;margin:auto}.art h3{margin-top:26px}
+blockquote{margin:22px 0;padding:10px 22px;background:var(--ac2);color:#171717;border:3px solid var(--ln);border-radius:14px;font:800 20px system-ui}
+ul.l{padding-left:20px;color:var(--mut)}ul.l li{margin-bottom:8px}
+details{background:var(--card);border:3px solid var(--ln);border-radius:14px;padding:12px 18px;margin-bottom:12px}
+summary{cursor:pointer;font-weight:800}details p{margin:10px 0 0}
+footer{padding:34px 0;text-align:center;color:var(--mut);font-size:14px;font-weight:700}
+</style></head><body><div class="w">
+
+<nav><b>Boveta</b><div><a href="#collection">Animals</a><a href="#steps">Steps</a><a href="#inside">Reading</a><a href="#faq">Questions</a></div></nav>
+
+<div class="hero"><div>
+<span class="tag">Discover More Today</span>
+<h1>Take The Next Step</h1>
+<p>Welcome to Boveta, a cheerful reading space about animals, wildlife and the places they live. Explore New Choices in creatures big and small, and Discover New Options for what to learn next.</p>
+<a class="btn" href="#collection">Start Exploring Today</a></div>
+<div class="pic"><svg viewBox="0 0 360 300"><rect width="360" height="300" fill="#4aa8ff"/><circle cx="290" cy="60" r="34" fill="#ffd83d"/><path d="M0 240Q90 200 180 235T360 225V300H0Z" fill="#5cc66a"/><circle cx="180" cy="150" r="82" fill="#f0a52c"/><circle cx="180" cy="150" r="54" fill="#ffd27a"/><circle cx="102" cy="82" r="22" fill="#c9791c"/><circle cx="258" cy="82" r="22" fill="#c9791c"/><circle cx="160" cy="135" r="7" fill="#171717"/><circle cx="200" cy="135" r="7" fill="#171717"/><path d="M172 160h16l-8 12Z" fill="#171717"/><path d="M180 172q-14 14-26 4M180 172q14 14 26 4" stroke="#171717" stroke-width="4" fill="none" stroke-linecap="round"/></svg></div></div>
+
+<section id="collection"><span class="tag">Browse Our Collection</span><h2>Something New Awaits</h2>
+<p>Explore Popular Choices among six animal topics, then pick one and read at your own pace.</p>
+<div class="g">
+<div class="c"><svg viewBox="0 0 300 150"><rect width="300" height="150" fill="#ffe08a"/><circle cx="150" cy="75" r="46" fill="#f0a52c"/><circle cx="150" cy="75" r="30" fill="#ffd27a"/><circle cx="138" cy="70" r="5" fill="#171717"/><circle cx="162" cy="70" r="5" fill="#171717"/><path d="M144 84h12l-6 8Z" fill="#171717"/></svg><div><h3>Wild Animals</h3><p>Big cats, elephants and other animals of grassland and jungle.</p></div></div>
+<div class="c"><svg viewBox="0 0 300 150"><rect width="300" height="150" fill="#c9f0b5"/><circle cx="150" cy="82" r="38" fill="#ffd83d"/><circle cx="136" cy="76" r="5" fill="#171717"/><circle cx="164" cy="76" r="5" fill="#171717"/><path d="M142 90l8 10 8-10Z" fill="#ff5a3c"/><path d="M146 44q4-18 10 0" stroke="#ff5a3c" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M144 120v12M156 120v12" stroke="#ff5a3c" stroke-width="5"/></svg><div><h3>Farm Animals</h3><p>Cows, hens and sheep, and the work they do on a farm.</p></div></div>
+<div class="c"><svg viewBox="0 0 300 150"><rect width="300" height="150" fill="#ffd0e0"/><g><ellipse cx="115" cy="62" rx="40" ry="32" fill="#ff5a3c"/><ellipse cx="115" cy="98" rx="30" ry="24" fill="#ffd83d"/><ellipse cx="185" cy="62" rx="40" ry="32" fill="#4aa8ff"/><ellipse cx="185" cy="98" rx="30" ry="24" fill="#8fd0ff"/></g><rect x="145" y="45" width="10" height="70" rx="5" fill="#171717"/><path d="M148 45q-10-24-22-26M152 45q10-24 22-26" stroke="#171717" stroke-width="3" fill="none"/></svg><div><h3>Insects</h3><p>Butterflies, bees and ants: tiny animals with big jobs.</p></div></div>
+<div class="c"><svg viewBox="0 0 300 150"><rect width="300" height="150" fill="#d8d0ff"/><circle cx="150" cy="84" r="42" fill="#b0b0b8"/><path d="M114 58l-6-30 28 18ZM186 58l6-30-28 18Z" fill="#b0b0b8"/><circle cx="136" cy="80" r="6" fill="#4aa860"/><circle cx="164" cy="80" r="6" fill="#4aa860"/><path d="M146 96h8l-4 6Z" fill="#ff5a3c"/><path d="M112 92h-26M112 100h-24M188 92h26M188 100h24" stroke="#171717" stroke-width="2"/></svg><div><h3>Pets</h3><p>How cats, dogs and other pets live and what they need.</p></div></div>
+<div class="c"><svg viewBox="0 0 300 150"><rect width="300" height="150" fill="#bde8c0"/><g><rect x="62" y="80" width="12" height="50" fill="#7a4a22"/><circle cx="68" cy="60" r="34" fill="#2f9e4f"/><rect x="144" y="70" width="14" height="60" fill="#7a4a22"/><circle cx="151" cy="48" r="40" fill="#1f7a3a"/><rect x="228" y="84" width="12" height="46" fill="#7a4a22"/><circle cx="234" cy="64" r="32" fill="#43b862"/></g></svg><div><h3>Forests</h3><p>Why forests are homes for so many living things.</p></div></div>
+<div class="c"><svg viewBox="0 0 300 150"><rect width="300" height="150" fill="#7cc4ff"/><ellipse cx="140" cy="76" rx="52" ry="30" fill="#ff8a3c"/><path d="M190 76l40-26v52Z" fill="#ff8a3c"/><circle cx="116" cy="70" r="6" fill="#fff"/><circle cx="116" cy="70" r="3" fill="#171717"/><path d="M140 52q16 24 0 48" stroke="#ffd83d" stroke-width="5" fill="none"/><g fill="#fff" opacity=".7"><circle cx="60" cy="40" r="6"/><circle cx="76" cy="26" r="4"/><circle cx="240" cy="120" r="6"/></g></svg><div><h3>Underwater Life</h3><p>Fish and sea creatures, and how they breathe and swim.</p></div></div>
+</div></section>
+
+<section><span class="tag">Simple &amp; Convenient</span><h2>See What’s Available</h2>
+<p>Discover Quality Choices in three easy reading styles, each written to be short and clear.</p>
+<div class="g">
+<div class="st"><h3>Short Reads</h3><p>Five-minute articles you can finish in a single sitting.</p></div>
+<div class="st"><h3>Picture Guides</h3><p>Simple drawings that show how an animal looks and lives.</p></div>
+<div class="st"><h3>Quick Facts</h3><p>Small notes to remember about each animal and its habitat.</p></div>
+</div></section>
+
+<section><div class="two">
+<div class="pic"><svg viewBox="0 0 400 280"><rect width="400" height="280" fill="#ff5a3c"/><circle cx="200" cy="140" r="104" fill="#fff6c9"/><path d="M130 190q70-130 140 0" fill="#ffd83d" stroke="#171717" stroke-width="4"/><circle cx="170" cy="135" r="8" fill="#171717"/><circle cx="230" cy="135" r="8" fill="#171717"/><path d="M175 168q25 22 50 0" stroke="#171717" stroke-width="5" fill="none" stroke-linecap="round"/><circle cx="130" cy="60" r="10" fill="#4aa8ff"/><circle cx="290" cy="220" r="12" fill="#5cc66a"/></svg></div>
+<div><span class="tag">Find Your Next Favorite</span><h2>Discover Your Next Pick</h2>
+<p>At Boveta, Your Choice, Your Way means you pick the subject and the pace. Find Your Best Match, or Find Your Perfect Match, among short guides, animal notes and simple lessons, and Look What’s New each week.</p>
+<p>Your Search Ends Here when curiosity leads the way. Worth a Look Today: one short article, one new idea.</p></div></div></section>
+
+<section><span class="tag">Explore Our Latest Offers</span><h2>Find What You Need</h2>
+<p>Find the Right Solution to everyday animal questions with these short reading guides.</p>
+<div class="g">
+<div class="st"><h3>Why Do Birds Sing?</h3><p>Songs help birds find mates, mark their space and stay in touch.</p></div>
+<div class="st"><h3>How Do Bees Make Honey?</h3><p>Nectar, wings and teamwork inside a busy hive.</p></div>
+<div class="st"><h3>Why Do Cats Purr?</h3><p>A gentle look at the sounds cats make and what they may mean.</p></div>
+<div class="st"><h3>How Do Fish Breathe?</h3><p>Gills take oxygen from water, explained step by step.</p></div>
+</div></section>
+
+<section id="steps"><span class="tag">Discover Something New</span><h2>Make Every Click Count</h2>
+<p>Learn More Online with four simple steps. Get Started Today.</p>
+<div class="g">
+<div class="st"><i>01</i><h3>Pick an Animal</h3><p>Begin with a creature you are curious about.</p></div>
+<div class="st"><i>02</i><h3>Read Calmly</h3><p>Take your time. Slow reading helps facts settle in memory.</p></div>
+<div class="st"><i>03</i><h3>Write One Line</h3><p>Summarise the main idea in your own words.</p></div>
+<div class="st"><i>04</i><h3>Look Again</h3><p>Return after a few days and see how much you remember.</p></div>
+</div></section>
+
+<section id="inside"><div class="art"><span class="tag">Quality You Can Trust</span><h2>See What’s Inside: The Animal World</h2>
+<p>Animals live in every corner of our planet, from frozen poles to warm oceans. Each one has special ways of finding food, staying safe and raising young. Learning about them helps us understand nature and our place in it.</p>
+<blockquote>Every animal is perfectly suited to the place it calls home.</blockquote>
+<h3>Habitats shape bodies</h3>
+<p>Thick fur keeps polar animals warm, long legs help desert animals stay cool, and webbed feet make swimming easy. Body shape often tells you where an animal lives.</p>
+<h3>Food chains connect life</h3>
+<p>Plants make food from sunlight, small animals eat plants, and larger animals eat the small ones. Every link matters, so a change in one place can affect many others.</p>
+<h3>Animals communicate</h3>
+<p>Birds sing, bees dance and whales call across the ocean. Studying these signals shows how animals share warnings, find friends and care for their young.</p>
+<h3>We can all be good neighbors</h3>
+<p>Keeping water clean, planting flowers for bees and watching wildlife quietly are small ways to help. Explore New Possibilities by spending ten minutes outdoors and noticing one animal.</p></div></section>
+
+<section id="faq"><div class="art"><span class="tag">Explore Your Options</span><h2>Questions Readers Ask</h2>
+<details><summary>What is Boveta?</summary><p>It is a reading and learning space with simple articles about wild animals, farm animals, insects, pets, forests and sea life.</p></details>
+<details><summary>Where should I begin?</summary><p>Open any topic that sounds interesting and read one short piece. There is no fixed order.</p></details>
+<details><summary>How much time do I need?</summary><p>Ten minutes a day is enough. Small, regular sessions work better than rare long ones.</p></details>
+<details><summary>Does it work on my phone?</summary><p>Yes. The page fits phones, tablets and computers and follows your light or dark screen setting.</p></details>
+</div></section>
+
+<section><div class="band"><span class="tag">A New Choice Awaits</span><h2>Make A Choice Today</h2>
+<p>Learning is a series of small decisions. Find Something Better to do with a spare ten minutes, and Explore What’s New inside Boveta whenever you like. Explore New Choices, then Discover More Options.</p>
+<div class="pills"><span>Discover New Options</span><span>Find Your Best Match</span><span>Look What’s New</span><span>There’s More to Explore</span><span>Explore What’s Trending</span><span>See What Everyone Loves</span><span>Explore. Choose. Enjoy.</span><span>Visit Our Website Today</span></div></div></section>
+
+<section><div class="art"><span class="tag">Take a Look Today</span><h2>Simple Nature Habits</h2>
+<ul class="l"><li>Watch one animal quietly for five minutes.</li><li>Keep a small notebook of what you see.</li><li>Learn the name of one new bird or insect each week.</li><li>Read the story of one animal’s habitat.</li><li>Share one new fact with a friend or family member.</li></ul></div></section>
+
+<section style="text-align:center"><h2>Ready to Discover More?</h2>
+<p>Boveta is here whenever you want to read, learn and grow.</p>
+<a class="btn" href="#collection">Make Your Next Move</a></section>
+
+<footer>© Boveta · A place to read and learn</footer>
+</div></body></html>
